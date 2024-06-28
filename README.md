@@ -3,11 +3,9 @@
 
 #### Final result 89.15
 
-Transformer + Unet
-
-Transformer + Attention + Unet
-
-swin transformer : 구현 X
+1. Transformer + Unet
+2. Transformer + Attention + Unet
+3. swin transformer : 구현 X
 
 -----------
 
