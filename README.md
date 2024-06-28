@@ -1,7 +1,7 @@
 # Wildfire-detection
 제6회 2024 연구개발특구 AI SPARK 챌린지
 
-최종 결과 89.15
+#### Final result 89.15
 
 Transformer + Unet
 
@@ -11,7 +11,7 @@ swin transformer : 구현 X
 
 -----------
 
-## 참고 논문
+## Reference papers
 
 1. **3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers**
 
@@ -25,8 +25,8 @@ swin transformer : 구현 X
 
 -----------
 
-## 전처리
-데이터 셋 분석 10 channel image 중에 가장 특징적인 channel = 6, 7번 에서 특이점 발견
+## Preprocessing
+Analyze the dataset and find anomalies in the most characteristic channel = 6 and 7 out of 10 channel image
 
 ![10channel](https://github.com/hytric/Wildfire-detection/blob/main/10channel.png)
 
@@ -35,7 +35,8 @@ swin transformer : 구현 X
 
 -----------
 
-## 깨달은 점
+## learning point
 
-1. 모든 랜덤성 제어 (np, tf, os 등등)
-2. 버전 관리
+1. Control all randomness (np, tf, os 등등)
+2. Versioning
+3. Ensembles are good for performance
