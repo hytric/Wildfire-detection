@@ -28,4 +28,4 @@ swin transformer : 구현 X
 ## 전처리
 데이터 셋 분석 10 channel image 중에 가장 특징적인 channel = 6, 7번 에서 특이점 발견
 
-![10channel]https://github.com/hytric/Wildfire-detection/blob/main/10channel.png
+![10channel](https://github.com/hytric/Wildfire-detection/blob/main/10channel.png)
