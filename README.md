@@ -1,7 +1,7 @@
 # Wildfire-detection
 제6회 2024 연구개발특구 AI SPARK 챌린지
 
-#### Final result 89.15
+#### Final result 89.15 : 열린moon 19등
 
 1. Transformer + Unet
 2. Transformer + Attention + Unet
